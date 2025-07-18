@@ -1,0 +1,132 @@
+country_name,country_iso_code,year,population,yearly_percentage_change,median_age,fertility_rate,density,population_global_rank,happiness_index,human_development_index,gdp,currency,ppp,pct,male_percentage,female_percentage,politics,trade_balance,ease_of_doing_business,interest_rates,taxes,natural_resources,economic_category
+Afghanistan,AF / AFG,2024,42647492,2.88,17.1,4.76,65,36,2,0,2211,Afghani,$177 billion USD,,0.5049,0.4951,2,12.42 Billion dollars,173 out of 190 countries,0.1494,0.2,$3 trillion of US dollars,3 \10
+Albania,AL / ALB,2024,2791765,-0.71,36.7,1.34,102,143,5,0.789,21208,lek,17975.80 USD in 2023,,0.498,0.5057,5,20.7 Billion dollars,82 out of 190 countries,0.0275,0.15,0.014426,6 \10
+Algeria,DZ / DZA,2024,46814308,1.41,28.4,2.72,20,33,5,0,16824,algerian dinar,$634 Billion,,0.504,0.491,3,982 Billion dollars,157 out of 190 countries,0.08,0.19,0.226,5 \10
+Angola,AO / AGO,2024,37885849,3.09,16.5,5.05,30,41,1,0,8041,Angolan Kwanza,$271 Billion,,0.494,0.5052,2,0,177 out of 190 countries,0.19,0.25,0.2997,4 \10
+Argentina,AR / ARG,2024,45696159,0.35,32.5,1.5,17,35,6,0.842,30082,Argentine peso,$1.716 trllion,,0.4963,0.52,5,2640.00  USD Million,126 out of 190 countries,0.29,0.25,0.139,5 \10
+Armenia,AM / ARM,2024,2973840,1.03,36.1,1.72,104,140,5,0.811,21343,Armenian Dram,$62 Billion,,0.508,0.492,4,224 Million,47 out of 190 countries,0.0996,0.2,0.059,6 \10
+Australia                                                                                                                                                                                                                                                 ,AU / AUS,2024,26713205,0.99,38,1.64,3,55,7,1,70340,AUD(Australian Dollars),"$66,647",,0.496,0.507,8,$30.2 Billion,14 out of 190 countries,4.35,0.16,0.1336,8 \10
+Austria,AT / AUT,2024,9120813,-0.11,43.4,1.32,111,99,7,0,70297,Euro,$632 Billion,,0.4922,0.5078,7,189.26 Billion euros,27 out of 190 countries,0.0275,0.4,0,8 \10 
+Azerbaijan,AZ / AZE,2024,10336577,0.18,33.1,1.67,125,94,1,1,23598,Azerbaijan manat, $223 Billion,,0.4902,0.5004,5,"5,496.0 million US dollars",25 out of 190 countries,0.0725,0.23,0.041,6 \10
+Bahamas,BS / BHS,2024,401283,0.46,35,1.37,40,177,0,0.82,36742,Bahamas Dollar," $45,817",,0.477,0.52,5,922.10 BSD Million,0,0.0699,0,0,7 \10
+Bangladesh,BD / BGD,2024,173562364,1.22,25.7,2.14,1333,8,4,0.67,9148,Bangladesh Taka, $2.089 trillion,,0.4917,0.5083,4,15.43 Billion Dollars,168 out of 190 countries,0.0853,0.15,0.072,6 \10
+Barbados,BB / BRB,2024,282467,0.05,39.2,1.71,657,185,1,1,21336,Barbados Dollar,20490 USD,,0.48,0.52,6,Deficit of -461.19 million,128 out of 190 countries,0.0015,0.09,0.098,7 \10
+Belarus,BY / BLR,2024,9056696,-0.65,40.9,1.22,45,100,0.0582,0.824,30763,Belarusian Ruble, $264 Billion,,0.466,0.534,4,$1.309 Billion,49 out of 190 countries,0.095,0.25,0,5 \10
+Belgium,BE / BEL,2024,11738763,0.22,41.7,1.38,388,83,7,1,68894,Euro, $761 Billion,,0.4931,0.5069,6,Surplus of 583.0 USD,46 out of 190 countries,0.095,0.25,0.298,7 \10
+Belize,BZ / BLZ,2024,417072,1.45,26.4,2.02,18,176,0.0596,0.00721,13823,Belize Dollar,12455.30 dollars ,,0.5046,0.49,5,Deficit of -255477.16,0,0.084174,0.25,0.0694,5 \10
+Benin,BJ / BEN,2024,14462724,2.49,17.9,4.48,128,76,4,1,4130,West African CFA franc,$56 Billion dollars,,0.501,0.499,3,Deficit of 382.67 Billion,149 out of 190 countries,0.035,0.3,0.023,5 \10
+Bhutan,BT / BTN,2024,791524,0.65,29.9,1.45,21,166,0.781,0.00698,15064,Bhutanese ngultrum,$12 Billion,,0.528,0.472,6,Deficit of -995.45 million,89 out of 190 countries,0.1054,0.113,0.0273,6 \10
+Bolivia (Plurinational State of),BO / BOL,2024,12413315,1.38,24.9,2.52,11,79,1,0.698,3226,The Boliviano,138.79 Dollars,,0.5001,0.4909,4,Deficit of $845 million,150  out of 190 countries,0.0635,0.13,0.0947,5\10
+Botswana,BW / BWA,2024,2521139,1.65,23.2,2.7,4,146,3,0.731,20916,Botswana pula,"$27,936 USD",,0.4904,0.4901,7,Defcit of $845 million,87 out of 190 countries,0.019,0.25,0.0104,5\10
+Brazil,BR / BRA,2024,211998573,0.41,34.4,1.61,25,7,6,0.00786,21107,Brazilian Real (BRL),"4,734.65 Dollars",,0.4809,0.5101,5,Deficit -784.86 million US Dollars,124 out of 190 countries,0.12,0.34,0.0794,5\10
+Bulgaria,BG / BGR,2024,6757689,-0.56,44.5,1.75,62,110,5,0.00799,37411,The lev,$219 Billion,,0.4801,0.5109,5,51.44 Billion US Dollars,61 out of 190 countries,0.0359,0.15,0.0092,7\10
+Burundi,BI / BDI,2024,14047786,2.62,16.1,4.79,547,78,0,0.0042,920,Burundian franc,920 USD,,0.4907,0.5032,5,$0.19 Billion,166 out of 190 countries,0.0674,0.18,0.1396,4\10
+Cambodia,KH / KHM,2024,17638801,1.23,26,2.55,100,73,4,0.00606,7426,The Riel,$91 Billion,,0.4905,0.5005,3,$3.7 Miillion,144 out of 190 countries,0.0154,0.33,0.0084,6\10
+Cameroon,CM / CMR,2024,29123744,2.65,17.9,4.26,62,52,5,1,5406,The XAF (central African CFA Franc),$144 Billion ,,0.4984,0.5,2,Deficit of 156.60 ,167 out of 190 countries,0.0633,0.385,0.0553,4\10
+Canada,CA / CAN,2024,39742430,1.13,40.5,1.34,4,38,7,0.00935,63419,Dollars,$2.256 Trillion Dollars,,0.4966,0.5034,6,$102.3 Billion,23 out of 190 countries,0.035,0.15,0.0495,7\10
+Chad,TD / TCD,2024,20299123,5.07,15.7,6.03,16,65,4,very low,1864,The XAF (central African CFA Franc),$33 Billion,,0.5016,0.4908,3,Deficit 600.70 million US Dollars,0,0.05,0.3,0.2134,4\10
+Chile,CL / CHL,2024,19764771,0.54,36.4,1.14,27,66,6,1,32893,chilean peso,$598 Billion,,0.4907,0.5003,5,$16.5 Billion,59 out of 190 countries,0.0607,0.4,0.136,6\10
+China,CN / CHN,2024,1419321278,-0.23,39.6,1.01,151,2,6,0.00797,24569,Chinese Yuan ,$32.83 Trillion Dollars,,0.5106,0.4909,4,<6.1 trllion U.S ,31 out of 190 countries,0.0435,0.2,0.0126,6\10
+Colombia,CO / COL,2024,52886363,1.08,32,1.63,48,28,6,1,20676,Colombian peso,"1,488.436 USD",,0.4903,0.5065,4,Deficit of -0.660 Billion,67 out of 190 countries,0.095,0.15,0.0532,6\10
+Comoros,KM / COM,2024,866628,1.91,20.5,3.82,466,163,4,0.586,3883,USD,$6.8 billion,,0.508,0.492,,$1.3 billion,184 out of 190 countries,0.0692,0.25,0,4\10
+Congo (Republic of the),CG / COG,2024,6332961,2.43,18.4,4.11,19,113,5,0.593,555,Central African CFA franc,$73.74 billion,,0.506,0.494,,$1.7 billion,180 out of 190 countries,0.0398,0.35,0.2997,4\10
+Croatia,HR / HRV,2024,3875325,-0.53,45,1.47,69,130,6,1,45485,USD,$77.18 billion,,0.479,0.521,,$3.8 billion,51 out of 190 countries,0.0275,0.12,0.139,7\10
+Cuba,CU / CUB,2024,10979783,-0.36,41.9,1.45,103,87,0,0,3300,Cuban peso,$63.38 billion,,0.497,0.503,,0,0,0.0551,0.35,0.236,5\10
+Cyprus,CY / CYP,2024,1358282,0.99,38.2,1.38,147,157,6,1,57066,USD,$34.83 billion,,0.504,0.496,,$1.7 billion,57 out of 190 countries,0.0215,0.125,0.051,7\10
+Democratic Republic of the Congo,CD / COD,2024,6332961,2.43,18.4,4.11,19,113,3,0.481,1616,USD,$72.46 billion,,0.512,0.488,,$2.3 billion,183 out of 190 countries,0.0389,0.4,0,3\10
+Djibouti,DJ / DJI,2024,1168722,1.37,24.7,2.62,50,160,4,0.515,7104,USD,$2.47 billion ,,0.511,0.489,,$430 million,171 out of 190 countries,0.0451,0.25,0,4\10
+Ecuador,EC / ECU,2024,18135478,0.86,28.8,1.81,73,72,6,1,16062,USD,$106.34 billion,,0.504,0.496,,$ 140 million,129 out of 190 countries,0.0815,0.25,0.418,5\10
+Egypt,EG / EGY,2024,116538258,1.75,24.3,2.74,117,13,4,0.728,18525,USD,$1704.65 billion,,0.511,0.489,,$8.4 billion,114 out of 190 countries,0.1999,0.2,0.261,6\10
+Eritrea,ER / ERI,2024,3535603,1.88,18.9,3.68,35,132,0,0,755,Eritrean Nakfa,$2.1 billion,,0.508,0.492,,0,189 out of 190 countries,0.0398,0.3,0.159,4\10
+Estonia,EE / EST,2024,1360546,-0.49,42.3,1.36,32,156,6,0.905,46669,USD,$40.7 billion,,0.485,0.515,,$240 million,18 out of 190 countries,0.0215,0.2,0.126,8\10
+Ethiopia,ET / ETH,2024,132059767,2.62,18.9,3.91,132,10,4,0.492,3058,USD,$287.18 billion,,0.508,0.492,,$2.5 billion,159 out of 190 countries,0.0451,0.3,0.283,4\10
+Finland,FI / FIN,2024,5617310,0.29,43,1.29,18,117,8,0.948,61575,USD,$318.26 billion,,0.501,0.499,,$2.3 billion,20 out of 190 countries,0.0215,0.25,0.129,8\10
+France,FR / FRA,2024,66548530,0.17,42.1,1.64,122,23,7,1,58167,USD,$3883.82 billion,,0.492,0.508,,$43.8 billion,32 out of 190 countries,0.0215,0.33,0.163,8\10
+Gabon,GA / GAB,2024,2538952,2.18,21.5,3.59,10,145,5,0.693,20757,USD,$39.14 billion,,0.502,0.498,,$6.2 billion,169 out of 190 countries,0.0398,0.35,0.443,6\10
+Gambia (The),GM / GMB,2024,2759988,2.3,18.4,3.91,273,144,5,0.495,909,Gambian dalasi,$1.75 billion,,0.505,0.495,,$230 million,151 out of 190 countries,0.0551,0.15,0.231,4\10
+Germany,DE / DEU,2024,84552242,0,45.3,1.45,243,19,7,1,69027,USD,$5624.82 billion,,0.502,0.498,,$27.4 billion,22 out of 190 countries,0.0215,0.15,0.082,8\10
+Ghana,GH / GHA,2024,34427414,1.89,21.1,3.34,151,46,5,0.602,7543,USD,$80.04 billion,,0.509,0.491,,$2.3 billion,118 out of 190 countries,0.24,0.25,0.267,5\10
+Greece,GR / GRC,2024,10047817,-1.9,46.3,1.34,78,95,6,1,41076,USD,$400.15 billion,,0.496,0.504,,$9.2 billion,79 out of 190 countries,0.0215,0.24,0.097,6\10
+Grenada,GD / GRD,2024,117207,0.11,33.9,1.47,345,194,0,0,18808,USD,$1.82 billion,,0.492,0.508,,0,142 out of 190 countries,0.0451,0.3,0.082,5\10
+Guatemala,GT / GTM,2024,18406359,1.55,23,2.29,172,70,6,1,13750,USD,$80.04 billion,,0.509,0.491,,$3.7 billion,96 out of 190 countries,0.065,0.25,0.243,5\10
+Guinea,GQ / GNQ,2024,14754785,2.42,18.1,4.13,60,75,5,0.471,4383,USD,$15.87 billion,,0.506,0.494,,$1.3 billion,175 out of 190 countries,0.0451,0.35,0.396,4\10
+Guinea-Bissau,GW / GNB,2024,2201352,2.23,19.2,3.76,78,148,0,0,2862,USD,$1.52 billion,,0.507,0.493,,$140 million,176 out of 190 countries,0.0398,0.25,0.201,3\10
+Guyana,GY / GUY,2024,831087,0.57,25.9,2.4,4,164,0,0.742,54732,USD,$3.43 billion,,0.504,0.496,,$430 million,134 out of 190 countries,0.0551,0.4,0.541,4\10
+Honduras,HN / HND,2024,10825703,1.7,23.9,2.48,97,88,6,0.624,7179,USD,$24.95 billion ,,0.509,0.491,,$2.4 billion,133 out of 190 countries,0.0815,0.25,0.235,4\10
+Iceland,IS / ISL,2024,393396,1.51,36,1.52,4,178,8,1,76159,USD,$25.39 billion ,,0.503,0.497,,$1.4 billion,21 out of 190 countries,0.0389,0.367,0.083,8\10
+India,IO / IOT,2024,1450935791,0.89,28.4,1.96,488,1,4,0.644,10166,USD,$1305.42 billion,,0.512,0.488,,$67.8 billion,63 out of 190 countries,0.065,0.3,0.268,6\10
+Iran (Islamic Republic of),IR / IRN,2024,91567738,1.06,33.4,1.68,56,17,5,0,4771,Iranian rial,$167.66 billion,,0.513,0.487,,0,127 out of 190 coun tries,0.1999,0.25,0.311,6\10
+Iraq,IQ / IRQ,2024,46042015,2.15,20.6,3.22,106,34,5,1,14107,USD,$56.73 billion ,,0.514,0.486,,$20.7 billion,172 out of 190 countries,0.0398,0.15,0.598,5\10
+Israel,IL / ISR,2024,9387021,1.41,29.2,2.79,434,98,7,1,54128,USD,$45.59 billion ,,0.503,0.497,,$14.8 billion,35 out of 190 countries,0.0275,0.24,0.054,8\10
+Italy,IT / ITA,2024,59342867,-0.26,47.8,1.21,202,25,6,0.915,57652,USD,$315.52 billion,,0.488,0.512,,$33.8 billion,58 out of 190 countries,0.0215,0.24,0.073,8\10
+Jamaica,JM / JAM,2024,2839175,-0.02,32.2,1.35,262,142,6,1,11422,USD,$16.12 billion ,,0.495,0.505,,$1.7 billion,70 out of 190 countries,0.0551,0.25,0.173,5\10
+Japan,JP / JPN,2024,123753041,-0.5,49.4,1.22,339,12,6,0.925,49885,USD,$652.86 billion ,,0.486,0.514,,$60.4 billion,29 out of 190 countries,0.01,0.35,0.026,8\10
+Kazakhstan,KZ / KAZ,2024,20592571,1.29,29.6,2.98,8,64,6,0.837,38515,USD,$64.45 billion,,0.508,0.492,,$12.4 billion,25 out of 190 countries,0.0389,0.1,0.531,6\10
+Kenya,KE / KEN,2024,56432944,1.98,19.8,3.17,99,26,4,1,6307,USD,$120.87 billion,,0.505,0.495,,$4.4 billion,56 out of 190 countries,0.0815,0.3,0.249,6\10
+Kiribati,KI / KIR,2024,134518,1.5,22.8,3.12,166,192,0,0.628,3547,USD,$245.19 million,,0.506,0.494,,$130 million,186 out of 190 countries,0.0398,0.25,0.041,4\10
+Kuwait,KW / KWT,2024,4934507,1.98,34.8,1.52,277,128,7,0.852,51561,USD,$183.65 billion,,0.575,0.425,,$24.1 billion,83 out of 190 countries,0.0389,0,0.843,7\10
+Kyrgyzstan,KG / KGZ,2024,7186009,1.59,25.3,2.78,37,107,6,1,7106,USD,$7.67 billion ,,0.507,0.493,,$1.2 billion,80 out of 190 countries,0.0451,0.1,0.263,5\10
+Latvia,LV / LVA,2024,1871871,-0.56,43.3,1.34,30,151,6,1,41384,USD,$43.83 billion,,0.485,0.515,,$1..4 billion,19  out of 190 countries,0.0215,0.2,0.124,7\10
+Lebanon,LB / LBN,2024,5805962,0.56,28.6,2.23,568,116,2,0.723,12293,USD,$24.35 billion,,0.503,0.497,,$13.4 billion,143 out of 190 countries,0.0551,0.15,0.051,6\10
+Lesotho,LS / LSO,2024,2337423,1.12,21.6,2.66,77,147,1,1,2881,USD,$2.54 billion,,0.505,0.495,,$710 million,142 out of 190 countries,0.065,0.25,0.158,4\10
+Liberia,LR / LBR,2024,5612817,2.18,18.6,3.86,58,118,4,0.487,1795,USD,$4.01 billion,,0.503,0.497,,$630 million,175 out of 190 countries,0.0451,0.25,0.345,3\10
+Libya,LY / LBY,2024,7381023,1.03,27.5,2.3,4,106,1,1,13849,USD,$39.04 billion,,0.514,0.486,,$16.2 billion,0,0.0398,0.15,0.514,5\10
+Lithuania,LT / LTU,2024,2859110,0.18,42,1.21,46,141,7,1,50783,USD,$73.59 billion ,,0.485,0.515,,$2.5 billion,24 out of 190 countries,0.0215,0.15,0.091,7\10
+Luxembourg,LU / LUX,2024,673036,1.19,39.2,1.4,260,168,7,0.922,139106,USD,$89.07 billion,,0.503,0.497,,$12.4 billion,72 out of 190 countries,0.0215,0.15,0.082,9\10
+Malawi,MW / MWI,2024,21655286,2.61,17.8,3.59,230,62,4,0.508,1830,USD,$19.59 billion,,0.506,0.494,,$1.4 billion,141 out of 190 countries,0.0815,0.3,0.202,4\10
+Maldives,MV / MDV,2024,527799,0.34,31.9,1.56,1759,173,0,0,24735,USD,$5.67 billion ,,0.508,0.492,,$1.4 billion,147 out of 190 countries,0.0551,0.15,0.044,5\10
+Mali,ML / MLI,2024,24478595,2.98,15.6,5.51,20,58,4,0,2658,USD,$ 31.38 billion,,0.507,0.493,,$1.3 billion,148 out of 190 countries,0.0451,0.3,0.294,4\10
+Mauritania,MR / MRT,2024,5169395,2.93,17.3,4.63,5,126,5,0.54,6946,USD,$25.29 billion ,,0.509,0.491,,$700 million,152 out of 190 countries,0.0398,0.25,0.386,5\10
+Mauritius,MU / MUS,2024,1271169,-0.19,37.4,1.23,626,158,6,1,29511,USD,$17.06 billion ,,0.503,0.497,,$1.1 billion,13 out of 190 countries,0.0389,0.15,0.091,7\10
+Mexico,MX / MEX,2024,130861007,0.86,29.3,1.89,67,11,6,0,24767,USD,$332.89 billion,,0.505,0.495,,$32.6 billion,60 out of 190 countries,0.0815,0.16,0.412,6\10
+Moldova (Republic of),MD / MDA,2024,3034961,-1.05,38.1,1.73,92,138,6,0,3873,Moldovan Ieu,$7.35 billion,,0.488,0.512,,$1.2 billion,48 out of 190 countries,0.0389,0.12,0.143,6\10
+Mongolia,MN / MNG,2024,3475540,1.27,26.9,2.63,2,133,6,1,18005,USD,$14.97 billion,,0.507,0.493,,$1.1 billion,81 out of 190 countries,0.065,0.25,0.528,5\10
+Montenegro,ME / MNE,2024,638479,0.78,39.6,1.8,47,169,6,0.862,30887,USD,$17.06 billion ,,0.503,0.497,,$800 millipon,50 out of 190 countries,0.0389,0.09,0.186,6\10
+Morocco,MA / MAR,2024,38081173,0.98,29.5,2.21,85,40,5,1,9843,USD,$146.71 billion,,0.508,0.492,,$8.5 billion,53 out of 190 countries,0.0275,0.3,0.288,6\10
+Myanmar,MM / MMR,2024,54500091,0.68,29.8,2.1,83,27,1,1,5953,USD,$32.93 billion,,0.507,0.493,,$4.8 billion,165 out of 190 countries,0.0451,0.2,0.471,5\10
+Namibia,NA / NAM,2024,3030131,2.26,21.1,3.21,4,139,5,0.61,11216,USD,$20.29 billion,,0.506,0.494,,$1.4 billion,104 out of 190 countries,0.065,0.32,0.442,6\10
+Nepal,NP / NPL,2024,29651054,-0.15,25,1.96,207,51,5,0.601,5394,USD,$45.24 billion,,0.507,0.493,,$2.5 billion,94 out of 190 countries,0.0551,0.2,0.194,4\10
+Netherlands,NL / NLD,2024,18228742,0.75,41.4,1.43,541,71,7,1,78103,USD,$141.55 billion,,0.503,0.497,,$53.8 billion,42 out of 190 countries,0.0215,0.25,0.082,9\10
+Netherlands,AN / ANT,2024,18228742,0.75,41.4,1.43,541,71,7,1,78103,USD,$141.55 billion,,0.503,0.497,,$53.8 billion,42 out of 190 countries,0.0215,0.25,0.082,9\10
+Nicaragua,NI / NIC,2024,6916140,1.36,25.6,2.21,57,109,6,1,8309,USD,$7.35 billion ,,0.505,0.495,,$1.4 billion,143  out of 190 countries,0.0815,0.3,0.231,5\10
+Niger,NE / NER,2024,27032412,3.34,15.4,5.94,21,54,5,0.394,6207,USD,$14.38 billion,,0.511,0.489,,$1.1 billion,168 out of 190 countries,0.0425,0.3,0.185,3\10
+Nigeria,NG / NGA,2024,232679478,2.1,17.9,4.38,255,6,5,1,6207,USD,$333.59 billion,,0.506,0.494,,$10.4 billion,131 out of 190 countries,0.0535,0.24,0.524,4\10
+Norway,NO / NOR,2024,5576660,1.04,39.7,1.41,15,119,7,1,100668,USD,$591.19 billion,,0.503,0.497,,$73.2 billion,9 out of 190 countries,0.0525,0.23,0.472,9\10
+Oman,OM / OMN,2024,5281538,4.6,29.5,2.51,17,123,6,0.858,42520,USD,$108.19 billion,,0.575,0.425,,$12.8 billion,68 out of 190 countries,0.09,0,0.586,7\10
+Pakistan,PK / PAK,2024,251269164,1.52,20.4,3.55,326,5,5,1,6037,USD,4357.59 billion,,0.513,0.487,,$15.1 billion,136 out of 190 countries,0.06,0.02,0.258,5\10
+Panama,PA / PAN,2024,4515577,1.27,29.9,2.11,61,129,6,0.839,39803,USD,$14.38 billion,,0.505,0.495,,$5.4 billion,55 out of 190 countries,0.065,0.25,0.253,7\10
+Paraguay,PY / PRY,2024,6929153,1.24,26.6,2.42,17,108,6,0.731,17517,USD,$12.79 billion,,0.506,0.494,,$1.4 billion,123 out of 190 countries,0.0475,0.1,0.238,6\10
+Peru,PE / PER,2024,34217848,1.1,29.8,1.97,27,47,6,1,16974,USD,$61.59 billion ,,0.505,0.495,,$6.2 billion,76 out of 190 countries,0.0525,0.29,0.446,6\10
+Philippines,PH / PHL,2024,115843670,0.83,25.7,1.89,389,14,6,0.71,10989,USD,$132.19 billion,,0.505,0.495,,$14.1 billion,95 out of 190 countries,0.065,0.12,0.283,6\10
+Poland,PL / POL,2024,38539201,-0.58,41.8,1.3,126,39,6,1,46450,USD,$166.19 billion,,0.487,0.513,,$12.1 billion,40 out of 190 countries,0.2,0.19,0.162,7\10
+Portugal,PT / PRT,2024,10425292,-0.05,46.6,1.51,114,93,6,0,47209,USD,$45.59 billion ,,0.488,0.512,,$1.7 billion,39 out of 190 countries,0.0215,0.21,0.118,8\10
+Qatar,QA / QAT,2024,3048423,2.33,33.6,1.72,263,137,1,1,128919,USD,$89.19 billion,,0.755,0.245,,$50.4 billion,44 out of 190 countries,0.0389,0,0.712,8\10
+Romania,RO / ROU,2024,19015088,-0.54,42.9,1.71,83,67,7,0,45659,USD,$80.99 billion,,0.491,0.509,,$13.4 billion,47 out of 190 countries,0.065,0.16,0.183,7\10
+Rwanda,RW / RWA,2024,14256567,2.16,19.7,3.65,578,77,0,0.548,3396,USD,$14.38 billion,,0.503,0.497,,$1.1 billion,38 out of 190 countries,0.0575,0.3,0.141,5\10
+Samoa,AS / ASM,2024,218019,0.63,19.8,3.8,77,188,0,0.702,6997,USD,$245.19 million,,0.508,0.492,,$170 million,87 out of 190 countries,0.0451,0.27,0.083,6\10
+Senegal,SN / SEN,2024,18501984,2.35,19.4,3.77,96,69,5,0.517,4791,USD,$18.39 billion,,0.506,0.494,,$1.7 billion,123 out of 190 countries,0.0398,0.3,0.232,5\10
+Serbia,RS / SRB,2024,6736216,-0.55,44.1,1.5,77,111,6,1,28674,USD,$17.19 billion,,0.489,0.511,,$4.5 billion,44 out of 190 countries,0.0175,0.15,0.215,6\10
+Seychelles,SC / SYC,2024,130418,1.93,34,2.11,284,193,0,0.848,32706,USD,$4.63 billion,,0.504,0.496,,$490 million,111 out of 190 countries,0.0775,0.33,0.071,7\10
+Slovakia,SK / SVK,2024,5506760,-0.2,41.8,1.56,115,120,6,1,43513,USD,$27.99 billion ,,0.486,0.514,,$6.4 billion,45 out oof 190 countries,0.0215,0.19,0.143,7\10
+Somalia,SO / SOM,2024,19009151,3.54,15.5,6.01,30,68,5,0.38,1557,USD,$10.09 billion ,,0.508,0.492,,0,190 out of 190 countries,0.0398,0,0.191,3\10
+Spain,ES / ESP,2024,47910526,0,45.4,1.22,96,32,6,1,53092,USD,$347.59 billion,,0.488,0.512,,$44.8 billion,30 out of 190 countries,0.0215,0.25,0.131,8\10
+Sudan,SS / SSD,2024,50448963,0.81,18.4,4.26,29,30,1,1,1155,USD,$26.39 billion,,0.509,0.491,,$2.3 billion,172 out of 190 countries,0.0398,0.15,0.411,4\10
+Suriname,SR / SUR,2024,634431,0.88,28.4,2.23,4,170,0,0.69,21136,USD,$517.19 billion,,0.504,0.496,,$430 million,162 out of 190 countries,0.065,0.36,0.541,5\10
+Sweden,SE / SWE,2024,10606999,0.53,40.1,1.43,26,90,7,1,67024,USD,$95.99 billion,,0.503,0.497,,$16.4 billion,10 out of 190 countries,0.0215,0.22,0.161,9\10
+Switzerland,CH / CHE,2024,8921981,0.58,42.7,1.44,226,101,7,0.97,89315,USD,$107.99 billion,,0.503,0.497,,$53.8 billion,36 out of 190 countries,0.0389,0.08,0.041,9\10
+Tajikistan,TJ / TJK,2024,10590927,1.94,22.1,3.04,76,91,5,0.679,4964,USD,$3.19 billion,,0.507,0.493,,$470 million,106 out of 190 countries,0.0451,0.25,0.281,4\10
+Thailand,TH / THA,2024,71668011,-0.05,40.1,1.2,140,20,6,0,23465,USD,$227.59 billion,,0.485,0.515,,$4.8 billion,21 out of 190 countries,0.065,0.2,0.193,7\10
+Timor-Leste,TL / TLS,2024,1400638,1.18,21.3,2.63,94,155,1,1,4804,USD,$245.19 million,,0.506,0.494,,$300 million,178 out of 190 countries,0.0398,0.11,0.541,5\10
+Togo,TG / TGO,2024,9515236,2.27,18.9,4.12,175,97,4,0.547,3072,USD,$14.38 billion,,0.505,0.495,,$340 million,137 out of 190 countries,0.0398,0.3,0.231,4\10
+Tonga,TO / TON,2024,104175,-0.4,20.7,3.1,145,197,1,1,7394,USD,$81.19 billion,,0.508,0.492,,$50 million,89 out of 190 countries,0.0451,0.25,0.083,6\10
+Tunisia,TN / TUN,2024,12277109,0.63,32.5,1.82,79,80,5,1,13932,USD,$18.59 billion,,0.503,0.497,,$4.8 billion,78 out of 190 countries,0.0551,0.25,0.163,6\10
+T����rkiye (Turkey),TR / TUR,2024,87473805,0.23,33,1.62,114,18,5,0.853,15450,Turkish lira,$490.99 billion,,0.503,0.497,,$40.8 billion,64 out of 190 countries,0.085,0.23,0.235,7\10
+Turkmenistan,TM / TKM,2024,7494498,1.77,26.6,2.66,16,104,1,1,19829,USD,$57.39 billion ,,0.507,0.493,,$5.1 billion,162 out of 190 countries,0.0398,0.08,0.643,5\10
+Uganda,UG / UGA,2024,50015092,2.79,16.7,4.17,250,31,4,1,3098,USD,$16.69 billion,,0.505,0.495,,$1.2 billion,126 out of 190 countries,0.0815,0.3,0.321,5\10
+Ukraine,UA / UKR,2024,37860221,0.34,42.1,0.99,65,42,5,0.734,17630,USD,$58.99 billion ,,0.465,0.535,,$6.3 billion,64 out of 190 countries,0.065,0.18,0.295,6\10
+United Kingdom of Great Britain and Northern Ireland,GB / GBR,2024,69138192,0.66,40,1.55,286,21,7,0.946,41000,Pound Sterling,$539.99 billion,,0.503,0.497,,$141.8 billion,8 out of 190 countries,0.0275,0.19,0.141,8\10
+Uzbekistan,UZ / UZB,2024,36361859,1.99,27,3.49,85,43,6,1,11107,USD,$40.99 billion,,0.508,0.492,,$1.4 billion,69 out of 190 countries,0.0389,0.12,0.121,5\10
+Vanuatu,VU / VUT,2024,327777,2.3,20.2,3.57,27,181,0,0.614,3461,USD,$40.19 million,,0.506,0.494,,$240 million,83 out of 190 countries,0.0451,0,0.141,5\10
+Yemen,YE / YEM,2024,40583164,3.03,18.3,4.5,77,37,0,0,0,Yemeni rial,$32.39 billion,,0.514,0.486,,$1.7 billion,187 out of 190 countries,0.0398,0.2,0.201,4\10
+Zambia,ZM / ZMB,2024,21314956,2.85,17.7,4.04,29,63,4,0.569,4077,USD,$10.09 billion ,,0.506,0.494,,$1.3 billion,85 out of 190 countries,0.0815,0.35,0.471,5\10
+Zimbabwe,ZW / ZWE,2024,16634373,1.8,18,3.67,43,74,3,1,3820,USD,$2.61 billion,,0.505,0.495,,$1.4 billion,140 out of 190 countries,0.0999,0.25,0.351,4\10
